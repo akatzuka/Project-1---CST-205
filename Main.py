@@ -1,3 +1,8 @@
+#Sean Vucinich
+#CST 205
+#Github link: https://github.com/akatzuka/Project-1---CST-205
+#The program will take 9 images of the same size and takes the average RGB of each pixel and creates a new image with objects in each image removed
+
 #from __future__ import print_function
 import sys
 #import time
